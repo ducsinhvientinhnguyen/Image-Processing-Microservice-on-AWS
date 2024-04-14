@@ -29,4 +29,4 @@ Successful URL responses should have a 200 code. Ensure that you include error c
 [License](LICENSE.txt)
 
 I have noted all of my report to Project2.pdf.
-My Url to my EBS deployment: http://image-processing-microservice-on-aws-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAiQTt4GduadF__gRUF09K6Oo15BDDG8KY3u6b5BL6OA%26s
+My Url to my EBS deployment: http://image-processing-microservice-on-aws-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
